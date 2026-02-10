@@ -111,7 +111,7 @@ Top roles with highest attrition:
 ---
 
 ## 📷 Dashboard Preview
-![HR Analytics Dashboard](images/hr_analytics_dashboard.png)
+![HR Analytics Dashboard](HR Dashboard.png)
 
 ---
 
